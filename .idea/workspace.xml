@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3fb9f02-35f4-429e-a654-8d08e30681f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/CSVCarLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/CarLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/CarOrganizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/HistogramDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/HorsepowerCarOrganizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/JFreeChartHistogramDisplay.java" afterDir="false" />
+    <list default="true" id="c3fb9f02-35f4-429e-a654-8d08e30681f3" name="Changes" comment="Added new class MainFrame&#10;Added new File CarDatabase.csv">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +37,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/IdeaProjects/kata3"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\kata3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +56,28 @@
       <option name="presentableId" value="Default" />
       <updated>1705175673874</updated>
     </task>
+    <task id="LOCAL-00001" summary="New project kata3 copying classes from kata2&#10;Modified required dependencies, adding JFreeChart&#10;Modified CarOrganizer and HorsepowerCarOrganizer&#10;Added new interface Histogram and HistogramDisplay&#10;Added new class JFreeChartHistogramDisplay">
+      <option name="closed" value="true" />
+      <created>1705176690004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705176690004</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added new class MainFrame&#10;Added new File CarDatabase.csv">
+      <option name="closed" value="true" />
+      <created>1705177090329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705177090329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project kata3 copying classes from kata2&#10;Modified required dependencies, adding JFreeChart&#10;Modified CarOrganizer and HorsepowerCarOrganizer&#10;Added new interface Histogram and HistogramDisplay&#10;Added new class JFreeChartHistogramDisplay" />
+    <MESSAGE value="Added new class MainFrame&#10;Added new File CarDatabase.csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new class MainFrame&#10;Added new File CarDatabase.csv" />
   </component>
 </project>
